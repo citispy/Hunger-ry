@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Hunger-ry</string>
+    <string name="title">Title</string>
+    <string name="image_of_meal">Image of meal</string>
+    <string name="meal_description">Description of meal</string>
+    <string name="take_photo">Take photo</string>
+    <string name="submit_meal">Submit meal</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="add_meal">Add meal</string>
+    <string name="connecting">Connecting...</string>
+    <string name="network_not_available">Network isn\'t available</string>
+    <string name="meal_successful">Meal successfully submitted</string>
+    <string name="meal_unsuccessful">Couldn\'t submit meal, please check network connection.</string>
+    <string name="network_error">Network Error</string>
+    <string name="insert_meal">Insert Meal</string>
+    <string name="set_location">Please set your location</string>
+    <string name="edit_location">Edit Location</string>
+    <string name="save_location">Save Location</string>
+    <string name="location_set">Location successfully set</string>
+    <string name="no_meals">No meals found at this location</string>
+
+</resources>
